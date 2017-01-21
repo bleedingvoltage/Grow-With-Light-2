@@ -1,0 +1,19 @@
+In the initial condition the tank has water and is full to capacity. It 
+also has some fish.At 6am and 6pm daily, Pump1, P1 will go ON and start 
+drwawing water from the tank. At the same instance Valve V1, will OPEN 
+while Valve V2 will remain CLOSED. This will allow water to flow and 
+irrigate the Plant Unit 1.
+
+After 3 minutes, Valve V2 will OPEN and V1 will CLOSE allowing water to 
+flow downwards. Also Valve V3 will OPEN to allow water to flow into 
+Plant Unit 2. 
+
+After 3 minutes, Valve V2 will close and Valve V3 will OPEN and V2, V1 
+will OPEN to allow water to flow to the outside plants. The Pump will 
+pump water outside for 3 minutes then go OFF. Await the next irrigation 
+hours at 6am.
+
+Since the water in the tank will fall considerably, another Pump, P2 
+will be switched ON by a water level meter and will repleish clean water 
+to keep the fish alive. P2 will stop pumping once the water level is 
+optimum.

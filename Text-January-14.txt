@@ -1,0 +1,49 @@
+==Purpose  or objectives==
+The main propose of this experiment is to learn more about how plants can survive and grow to maturity without being exposed to sunlight. This experiment is a continuation of my earler Experiment - [http://githuka.com/Growing_Plants_With_Artificial_Light_Experiment Grow With Light 1]. This time on a bigger scale and with more accurate data and equipment.The following are some of the objectives for this project:
+
+* To lean more about how plants convert light during photosynthesis
+* To learn about different types of light which are used in plant germination & growth
+* To learn about Automation and Data Mining
+* To increase my programming skills in small embedded hardware.
+
+==Apparatus and tools  used==
+
+===Software===
+* Linux OS
+* Arduino Programming Language
+* Python 3.2
+* C for Linux
+
+===Hardware===
+* Laptop/Desktop
+* Arduino
+* Raspberry Pi ModelB
+* Relay
+* Water Pump
+* Water Flow Valves
+* Fish Tank
+* Plants
+* Water
+
+==Theoretical  background==
+After successfully running [http://githuka.com/Growing_Plants_With_Artificial_Light_Experiment Grow With Light 1] an experiment that saw the growth of bean plants with CFL Light I decided to run it on a bigger scale with big data. This experiment main goal is to remain self sufficient with only the addition of water to set the system running. Grow With Light 2 will be running next to my computer in my lab and this feeling of having a system running on its own while working/studying remains one of the reasons why I decided to embark on my project. The system will have 3 inputs: Water, Power & Fish Food. It will have one output: Water. The water that the fish has used up will be pumped down to the plants which need the nutrients from the fish's waste water. Excess water will be pumped to outside vegetation which need the water too. At the same time, another pump will replenish the water in the fish tank and the system will keep on doing this at strict time-lapses. Sensory equipment will make sure that the fish is not left dry and also the plants are kept moist, light is switched ON/OFF are correct time zones.
+
+==Procedure==
+==Results  & Discussion==
+==Conclusion==
+==Analysis==
+==Budget==
+All prices are in Kenya Shillings.(KShs) 1USD = 102Kshs at the time of publishing this report,November 2016
+
+==References==
+*[http://www.treehugger.com/lawn-garden/how-grow-green-beans.html#14741100549831&action=collapse_widget&id=0&data= TreeHugger.com]
+*[http://homeguides.sfgate.com/normal-time-frame-peas-sprout-after-planting-69347.html SFGate.com]
+*[http://www.tomatodirt.com/tomato-grow-lights.html TomatoDirt.com]
+*[http://www.rsc.org/Education/Teachers/Resources/cfb/Photosynthesis.htm RSC.org]
+*[http://www.albertaurbangarden.ca Alberta Urban Garden]
+
+==Navigation==
+*[http://githuka.com/Main_Page Home]
+*[http://githuka.com/3phaseBlog 3phase Blog]
+
+<comments />

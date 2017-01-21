@@ -1,0 +1,26 @@
+<!--        BANNER ACROSS TOP OF PAGE        -->
+{| id="mp-topbanner" style="width:100%; background:#f9f9f9; margin:1.2em 0 6px 0; border:1px solid #ddd;"
+| style="width:61%; color:#000;" |
+<!--        "WELCOME TO GITHUKA" AND ARTICLE COUNT        -->
+{| style="width:280px; border:none; background:none;"
+| style="width:280px; text-align:center; white-space:nowrap; color:#000;" |
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Welcome to Git-Huka,</div>
+<div style="top:+0.2em; font-size:95%;">My Take On Electricalogy, Chinese and High Speed Trains.</div>
+<div id="articlecount" style="font-size:85%;">大梦想不来那些认为小</div>
+|}
+<!--        PORTAL LIST ON RIGHT-HAND SIDE        -->
+| style="width:13%; font-size:95%;" |
+* [[3phaseBlog]]
+* [[Exploring Chinese]]
+* [[Photography]]
+| style="width:13%; font-size:95%;" |
+* [[Machine Learning]]
+* [[Linux & SysDev]]
+* [[Applied Maths]]
+| style="width:13%; font-size:95%;" |
+* [[2007 Bottle]]
+* [[Legal&Copyright]]
+* '''[[Portal:Contents/Portals|All portals]]'''
+|}
+
+[[File:5Z4RS.jpg|thumb|alt=5Z4RS|The 5Z4RS Station Beacon in Woodley Estate, Nairobi. [http://githuka.com/Ham_Radio_In_Kenya Learn More...]]]
